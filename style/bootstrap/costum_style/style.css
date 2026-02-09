@@ -1,0 +1,6 @@
+*{margin:0; padding: 0;}
+header{min-height: 120px; background: rgb(231, 173, 37);}
+
+.nav-con{top: 42px;}    
+
+.wrapper{width: 1400px;}
