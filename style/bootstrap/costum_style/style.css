@@ -1,6 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+:root{
+    --prifont: 'Pacifico',cursive;
+    --secColor: #024a62;
+}
+
 *{margin:0; padding: 0;}
 header{min-height: 120px; background: rgb(231, 173, 37);}
 
-.nav-con{top: 42px;}    
+.nav-con{top: -81px;}    
 
-.wrapper{width: 1400px;}
+.wrapper{width: 100%;max-width: 1375px; margin: 0 auto; position: relative;}
+
+.btn-a{background: var(--secColor); width: 100%;max-width: 120px; text-align: center; padding: 10px 5px;color: #fff; font-weight: 700; text-decoration: none;border-radius: 12px;   margin: 15px auto;border-radius: 12px;   margin: 15px auto;border-radius: 12px;   margin: 15px auto;border-radius: 12px;   margin: 15px auto;border-radius: 12px;   margin: 15px auto;
+border-radius: 12px;   margin: 15px auto;}
+
+.header-font{font-family: var(--prifont); font-size: 50px;text-shadow: 3px 2px 4px #f0ffb9; }
+.message-content p {   font-size: 18px;   line-height: 100%;   font-family: unset;   font-weight: 600;   margin: 21px 0; }
+
+
+
+
